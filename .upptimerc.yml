@@ -6,12 +6,13 @@ sites:
   - name: Portfolio
     url: https://speedrapide10.github.io
   - name: Proxmox
-    url: https://pve.speednight.tk
+    check: "tcp-ping"
+    url: pve.speednight.tk
+    icon: 
   - name: Portainer
-    url: portainer.speednight.tk
-  - name: Portainer-test
     check: "tcp-ping"
     url: portainer.speednight.tk
+    icon: .icons/portainer-logo-black.svg
 #    port: 53
 #  - name: Test Broken Site
 #    url: https://thissitedoesnotexist.koj.co
