@@ -8,7 +8,11 @@ sites:
   - name: Proxmox
     url: https://pve.speednight.tk
   - name: Portainer
-    url: https://portainer.speednight.tk/
+    url: portainer.speednight.tk
+  - name: Portainer-test
+    check: "tcp-ping"
+    url: portainer.speednight.tk
+#    port: 53
 #  - name: Test Broken Site
 #    url: https://thissitedoesnotexist.koj.co
 
