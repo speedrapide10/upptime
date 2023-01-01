@@ -8,11 +8,15 @@ sites:
   - name: Proxmox
     check: "tcp-ping"
     url: pve.speednight.tk
-    icon: 
+    icon: https://user-images.githubusercontent.com/85310475/210180462-9490f8f5-cc71-43b7-be01-f93c1bfadb07.png
+  - name: Proxmox2
+    check: "tcp-ping"
+    url: pve.speednight.tk
+    icon: https://user-images.githubusercontent.com/85310475/210180463-c8b31c1f-9d93-46c2-aaf0-49f50d0ff786.png
   - name: Portainer
     check: "tcp-ping"
     url: portainer.speednight.tk
-    icon: .icons/portainer-logo-black.svg
+    icon: https://user-images.githubusercontent.com/85310475/210180460-6092fddc-c9ef-4b77-afe5-1c8ca6763230.svg
 #    port: 53
 #  - name: Test Broken Site
 #    url: https://thissitedoesnotexist.koj.co
