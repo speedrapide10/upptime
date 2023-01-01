@@ -23,19 +23,17 @@
     "icon": "https://user-images.githubusercontent.com/85310475/210180913-e4f38969-09fc-40a1-89e1-b1057b83fe83.png",
     "slug": "proxmox",
     "status": "up",
-    "uptime": "98.83%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "98.83%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 44,
     "timeDay": 44,
     "timeWeek": 44,
     "timeMonth": 44,
     "timeYear": 44,
-    "dailyMinutesDown": {
-      "2023-01-01": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portainer",
@@ -43,18 +41,16 @@
     "icon": "https://user-images.githubusercontent.com/85310475/210180914-9b56836e-d27c-4779-a83e-64308b5ab4c8.png",
     "slug": "portainer",
     "status": "up",
-    "uptime": "98.83%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "98.83%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 73,
     "timeDay": 73,
     "timeWeek": 73,
     "timeMonth": 73,
     "timeYear": 73,
-    "dailyMinutesDown": {
-      "2023-01-01": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
