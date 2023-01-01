@@ -9,6 +9,7 @@ sites:
     check: "tcp-ping"
     url: pve.speednight.tk
     icon: https://user-images.githubusercontent.com/85310475/210180913-e4f38969-09fc-40a1-89e1-b1057b83fe83.png
+    port: 443
   - name: Portainer
     check: "tcp-ping"
     url: portainer.speednight.tk
