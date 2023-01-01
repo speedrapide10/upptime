@@ -7,13 +7,13 @@ sites:
     url: https://speedrapide10.github.io/
   - name: Proxmox
     check: "tcp-ping"
-    url: https://pve.speednight.tk/
+    url: pve.speednight.tk
     icon: https://user-images.githubusercontent.com/85310475/210180913-e4f38969-09fc-40a1-89e1-b1057b83fe83.png
   - name: Portainer
     check: "tcp-ping"
-    url: https://portainer.speednight.tk/
+    url: portainer.speednight.tk
     icon: https://user-images.githubusercontent.com/85310475/210180914-9b56836e-d27c-4779-a83e-64308b5ab4c8.png
-#    port: 53
+    port: 443
 #  - name: Test Broken Site
 #    url: https://thissitedoesnotexist.koj.co
 
