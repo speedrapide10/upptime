@@ -4,13 +4,13 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Portfolio
-    url: https://speedrapide10.github.io/
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://speedrapide10.github.io
+  - name: Proxmox
+    url: https://pve.speednight.tk
+  - name: Portainer
+    url: https://portainer.speednight.tk/
+#  - name: Test Broken Site
+#    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
