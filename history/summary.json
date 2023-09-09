@@ -1,21 +1,23 @@
 [
   {
     "name": "Portfolio",
-    "url": "https://speedrapide10.github.io/",
-    "icon": "https://icons.duckduckgo.com/ip3/speedrapide10.github.io.ico",
+    "url": "portfolio.speednight.win",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 34,
-    "timeWeek": 118,
-    "timeMonth": 110,
-    "timeYear": 107,
-    "dailyMinutesDown": {}
+    "time": 108,
+    "timeDay": 187,
+    "timeWeek": 146,
+    "timeMonth": 117,
+    "timeYear": 108,
+    "dailyMinutesDown": {
+      "2023-09-09": 0
+    }
   },
   {
     "name": "Proxmox",
@@ -29,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 43,
-    "timeDay": 4,
-    "timeWeek": 36,
+    "timeDay": 15,
+    "timeWeek": 35,
     "timeMonth": 33,
     "timeYear": 43,
     "dailyMinutesDown": {
@@ -50,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
     "time": 36,
-    "timeDay": 25,
-    "timeWeek": 22,
-    "timeMonth": 37,
+    "timeDay": 17,
+    "timeWeek": 20,
+    "timeMonth": 36,
     "timeYear": 36,
     "dailyMinutesDown": {
       "2023-03-06": 877,
@@ -71,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 39,
-    "timeDay": 67,
-    "timeWeek": 24,
-    "timeMonth": 29,
+    "timeDay": 38,
+    "timeWeek": 23,
+    "timeMonth": 28,
     "timeYear": 39,
     "dailyMinutesDown": {
       "2023-02-24": 708,
