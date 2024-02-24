@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 122,
-    "timeDay": 139,
-    "timeWeek": 254,
-    "timeMonth": 268,
+    "timeDay": 244,
+    "timeWeek": 267,
+    "timeMonth": 269,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2024-01-14": 131,
@@ -30,15 +30,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.87%",
     "time": 35,
-    "timeDay": 6,
-    "timeWeek": 6,
+    "timeDay": 2,
+    "timeWeek": 5,
     "timeMonth": 4,
     "timeYear": 32,
-    "dailyMinutesDown": {
-      "2023-02-24": 707
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Proxmox2",
@@ -52,8 +50,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 29,
-    "timeDay": 5,
-    "timeWeek": 6,
+    "timeDay": 2,
+    "timeWeek": 5,
     "timeMonth": 5,
     "timeYear": 29,
     "dailyMinutesDown": {
@@ -71,14 +69,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.87%",
     "time": 32,
-    "timeDay": 5,
-    "timeWeek": 5,
+    "timeDay": 2,
+    "timeWeek": 4,
     "timeMonth": 4,
     "timeYear": 27,
-    "dailyMinutesDown": {
-      "2023-02-24": 708
-    }
+    "dailyMinutesDown": {}
   }
 ]
