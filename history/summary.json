@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 143,
-    "timeDay": 523,
-    "timeWeek": 318,
-    "timeMonth": 270,
+    "timeDay": 410,
+    "timeWeek": 322,
+    "timeMonth": 278,
     "timeYear": 152,
     "dailyMinutesDown": {
       "2024-01-14": 131,
@@ -33,7 +33,7 @@
     "uptimeYear": "100.00%",
     "time": 31,
     "timeDay": 2,
-    "timeWeek": 5,
+    "timeWeek": 4,
     "timeMonth": 10,
     "timeYear": 26,
     "dailyMinutesDown": {}
@@ -44,7 +44,7 @@
     "icon": "https://user-images.githubusercontent.com/85310475/210180913-e4f38969-09fc-40a1-89e1-b1057b83fe83.png",
     "slug": "proxmox2",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -53,7 +53,7 @@
     "timeDay": 2,
     "timeWeek": 4,
     "timeMonth": 4,
-    "timeYear": 24,
+    "timeYear": 23,
     "dailyMinutesDown": {}
   },
   {
@@ -71,7 +71,7 @@
     "timeDay": 2,
     "timeWeek": 4,
     "timeMonth": 10,
-    "timeYear": 23,
+    "timeYear": 22,
     "dailyMinutesDown": {}
   }
 ]
