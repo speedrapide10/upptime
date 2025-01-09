@@ -4,17 +4,17 @@
     "url": "https://speedrapide10.github.io/",
     "icon": "https://icons.duckduckgo.com/ip3/speedrapide10.github.io.ico",
     "slug": "portfolio",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 254,
-    "timeDay": 607,
-    "timeWeek": 296,
-    "timeMonth": 338,
-    "timeYear": 308,
+    "timeDay": 346,
+    "timeWeek": 270,
+    "timeMonth": 330,
+    "timeYear": 307,
     "dailyMinutesDown": {
       "2024-01-14": 131
     }
