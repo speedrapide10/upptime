@@ -40,7 +40,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://upptime.speednight.win #https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER/$REPO
   theme: dark
 
 workflowSchedule:
