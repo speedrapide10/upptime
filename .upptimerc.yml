@@ -13,9 +13,9 @@ sites:
     url: pve.speednight.win
     icon: https://user-images.githubusercontent.com/85310475/210180913-e4f38969-09fc-40a1-89e1-b1057b83fe83.png
     port: 443
-  - name: Proxmox2
+  - name: Proxmox3
     check: "tcp-ping"
-    url: pve2.speednight.win
+    url: pve3.speednight.win
     icon: https://user-images.githubusercontent.com/85310475/210180913-e4f38969-09fc-40a1-89e1-b1057b83fe83.png
     port: 443
   - name: Portainer
