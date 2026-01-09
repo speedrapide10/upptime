@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedrapide10.github.io.ico",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "71.89%",
+    "uptime": "71.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "15.12%",
     "time": 356,
-    "timeDay": 317,
-    "timeWeek": 443,
-    "timeMonth": 389,
+    "timeDay": 448,
+    "timeWeek": 435,
+    "timeMonth": 394,
     "timeYear": 358,
     "dailyMinutesDown": {
       "2025-11-15": 816,
@@ -325,8 +325,7 @@
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
-      "2025-01-10": 1440,
-      "2025-01-09": 490
+      "2025-01-10": 1440
     }
   },
   {
