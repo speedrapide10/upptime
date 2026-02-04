@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedrapide10.github.io.ico",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "72.53%",
+    "uptime": "72.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "21.76%",
+    "uptimeYear": "22.04%",
     "time": 351,
-    "timeDay": 522,
-    "timeWeek": 366,
-    "timeMonth": 338,
+    "timeDay": 227,
+    "timeWeek": 339,
+    "timeMonth": 328,
     "timeYear": 374,
     "dailyMinutesDown": {
       "2025-11-15": 816,
@@ -299,8 +299,7 @@
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
-      "2025-02-05": 1440,
-      "2025-02-04": 1440
+      "2025-02-05": 1440
     }
   },
   {
@@ -315,8 +314,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 8,
-    "timeDay": 2,
-    "timeWeek": 9,
+    "timeDay": 3,
+    "timeWeek": 7,
     "timeMonth": 7,
     "timeYear": 9,
     "dailyMinutesDown": {}
@@ -334,7 +333,7 @@
     "uptimeYear": "100.00%",
     "time": 8,
     "timeDay": 2,
-    "timeWeek": 9,
+    "timeWeek": 6,
     "timeMonth": 6,
     "timeYear": 8,
     "dailyMinutesDown": {}
@@ -351,8 +350,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 7,
-    "timeDay": 2,
-    "timeWeek": 11,
+    "timeDay": 3,
+    "timeWeek": 8,
     "timeMonth": 8,
     "timeYear": 9,
     "dailyMinutesDown": {}
