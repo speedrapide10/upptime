@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "73.79%",
+    "uptime": "73.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "36.56%",
+    "uptimeYear": "36.83%",
     "time": 349,
     "timeDay": 6,
-    "timeWeek": 198,
-    "timeMonth": 285,
-    "timeYear": 377,
+    "timeWeek": 185,
+    "timeMonth": 277,
+    "timeYear": 376,
     "dailyMinutesDown": {
       "2025-11-15": 816,
       "2025-11-14": 1440,
@@ -245,8 +245,7 @@
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
-      "2025-03-31": 1440,
-      "2025-03-30": 1440
+      "2025-03-31": 1440
     }
   },
   {
